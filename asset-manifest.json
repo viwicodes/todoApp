@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/viwicodes/todoApp/static/css/main.de933dcf.chunk.css",
+    "main.js": "/viwicodes/todoApp/static/js/main.8c0eeff8.chunk.js",
+    "main.js.map": "/viwicodes/todoApp/static/js/main.8c0eeff8.chunk.js.map",
+    "runtime-main.js": "/viwicodes/todoApp/static/js/runtime-main.b8f8bb47.js",
+    "runtime-main.js.map": "/viwicodes/todoApp/static/js/runtime-main.b8f8bb47.js.map",
+    "static/js/2.74df411e.chunk.js": "/viwicodes/todoApp/static/js/2.74df411e.chunk.js",
+    "static/js/2.74df411e.chunk.js.map": "/viwicodes/todoApp/static/js/2.74df411e.chunk.js.map",
+    "static/js/3.78a31323.chunk.js": "/viwicodes/todoApp/static/js/3.78a31323.chunk.js",
+    "static/js/3.78a31323.chunk.js.map": "/viwicodes/todoApp/static/js/3.78a31323.chunk.js.map",
+    "index.html": "/viwicodes/todoApp/index.html",
+    "static/css/main.de933dcf.chunk.css.map": "/viwicodes/todoApp/static/css/main.de933dcf.chunk.css.map",
+    "static/js/2.74df411e.chunk.js.LICENSE.txt": "/viwicodes/todoApp/static/js/2.74df411e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8f8bb47.js",
+    "static/js/2.74df411e.chunk.js",
+    "static/css/main.de933dcf.chunk.css",
+    "static/js/main.8c0eeff8.chunk.js"
+  ]
+}
